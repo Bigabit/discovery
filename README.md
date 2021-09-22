@@ -1,1 +1,2 @@
 # Discovery Service
+Eureka server

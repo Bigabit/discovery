@@ -1,2 +1,2 @@
 # Discovery Service
-Eureka server
+Eureka server. Yes
